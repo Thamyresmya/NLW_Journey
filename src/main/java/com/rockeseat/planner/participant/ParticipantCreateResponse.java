@@ -1,2 +1,8 @@
-package com.rockeseat.planner.participant;public record ParticipantCreateResponse() {
+package com.rockeseat.planner.participant;
+
+import java.util.UUID;
+
+public record ParticipantCreateResponse(
+        UUID id
+) {
 }
