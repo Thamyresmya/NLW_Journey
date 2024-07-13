@@ -1,4 +1,4 @@
-package com.rockeseat.planner.participant;
+package com.rocketseat.planner.participant;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

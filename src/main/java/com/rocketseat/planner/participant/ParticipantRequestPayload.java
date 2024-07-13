@@ -1,4 +1,4 @@
-package com.rockeseat.planner.participant;
+package com.rocketseat.planner.participant;
 
 public record ParticipantRequestPayload(
         String name,
